@@ -1,0 +1,14 @@
+Python
+Javascript
+Ruby
+Coding
+Programming
+Algorithm
+Command
+Array 
+Hashes
+Boolean
+String
+Error
+Developer
+Deployment
