@@ -49,7 +49,7 @@ With each feature, there are specific instructions that will be written on scree
 
 ![diagram](diagram.png) 
 
-R9	Develop an implementation plan which:
+# Develop an implementation plan which:
 - outlines how each feature will be implemented and a checklist of tasks for each feature
 - prioritise the implementation of different features, or checklist items within a feature
 - provide a deadline, duration or other time indicator for each feature or checklist/checklist-item
