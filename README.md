@@ -13,16 +13,16 @@
 - identify the target audience
 - explain how a member of the target audience will use it
 
-The application will randomly generate a word and the user has to guess the word, the user will have 5 chances to guess the word incorrectly then the game will end afterwards. The target audience for the game is anyone who visits my github, this could be my peers, educators or future employers. The target audience will use this as a fun interactive and educational game.
+        The application will randomly generate a word and the user has to guess the word, the user will have 5 chances to guess the word incorrectly then the game will end afterwards. The target audience for the game is anyone who visits my github, this could be my peers, educators or future employers. The target audience will use this as a fun interactive and educational game.
 
 
 # Develop a list of features that will be included in the application. It must include:
 
-This game contains a variation of features including a start game option and a new game/quit option. You are able to write your username as well.
+        This game contains a variation of features including a start game option and a new game/quit option. You are able to write your username as well.
 
 # a username input feature, 
 
-The username input was used as an interacative feature to personalise the game for each player.
+        The username input was used as an interacative feature to personalise the game for each player.
 
 ![username](username.png)
 
