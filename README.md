@@ -59,7 +59,7 @@ Utilise a suitable project management platform to track this implementation plan
 > Your checklists for each feature should have at least 5 items.
 ![implementation plan](plan.png) 
 
- R10	Design help documentation which includes a set of instructions which accurately describe how to use and install the application.
+ # Design help documentation which includes a set of instructions which accurately describe how to use and install the application.
 
 You must include:
 - steps to install the application
