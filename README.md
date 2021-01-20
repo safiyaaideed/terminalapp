@@ -33,3 +33,11 @@ The application will randomly generate a word and the user has to guess the word
 
 
 I would like the hangman game to be a very interactive game, I would like for it to have a start, exit and new game feature. The words used will probably be programming terminology that is frequently used to make it more interactive for the educators/students.
+
+R7	Develop an outline of the user interaction and experience for the application.
+Your outline must include:
+- how the user will find out how to interact with / use each feature
+- how the user will interact with / use each feature
+- how errors will be handled by the application and displayed to the user
+
+With each feature, there are specific instructions that will be written on screen for the game, it tells the user how to interact with each feature and how to go back tpo the main screen once completed.
