@@ -43,7 +43,7 @@ Type start to begin the game and the array will b
 
 
 # Note: Ensure that your features above allow you to demonstrate your understanding of the following language elements and concepts:
-- use of variables and the concept of variable scope
+- use of variables and the concept of variable scope.
 - loops and conditional control structures
 - error handling
 
