@@ -19,10 +19,21 @@ The application will randomly generate a word and the user has to guess the word
 
 
 # Develop a list of features that will be included in the application. It must include:
-- at least THREE features
-- describe each feature
 
 This game contains 
+
+# a username input feature, 
+
+
+# a welcome message 
+As soon as you enter the game, you will be told to write your name or username. Once you type in your name there will be a welcome message before you start the game
+
+
+# a 'start' feature 
+# a 'new game' and 'end game' feature.
+
+
+
 
 # Note: Ensure that your features above allow you to demonstrate your understanding of the following language elements and concepts:
 - use of variables and the concept of variable scope
