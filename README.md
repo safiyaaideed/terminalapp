@@ -24,7 +24,7 @@ This game contains a variation of features including a start game option and a n
 
 The username input was used as an interacative feature to personalise the game for each player.
 
-![username](usernamepng)
+![username](username.png)
 
 # a welcome message 
 As soon as you enter the game, you will be told to write your name or username. Once you type in your name there will be a welcome message before you start the game.
