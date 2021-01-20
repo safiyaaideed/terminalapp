@@ -20,16 +20,23 @@ The application will randomly generate a word and the user has to guess the word
 
 # Develop a list of features that will be included in the application. It must include:
 
-This game contains 
+This game contains a variation of features including a start game option and a new game/quit option. You are able to write your username as well.
 
 # a username input feature, 
 
+The username input was used as an interacative feature to personalise the game for each player.
+
+![username](usernamepng)
 
 # a welcome message 
-As soon as you enter the game, you will be told to write your name or username. Once you type in your name there will be a welcome message before you start the game
+As soon as you enter the game, you will be told to write your name or username. Once you type in your name there will be a welcome message before you start the game.
 
+![start](start.png)
 
 # a 'start' feature 
+
+Type start to begin the game and the array will b
+
 # a 'new game' and 'end game' feature.
 
 
