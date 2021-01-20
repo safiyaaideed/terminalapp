@@ -27,17 +27,17 @@ The username input was used as an interacative feature to personalise the game f
 ![username](username.png)
 
 # a welcome message 
-As soon as you enter the game, you will be told to write your name or username. Once you type in your name there will be a welcome message before you start the game.
+        As soon as you enter the game, you will be told to write your name or username. Once you type in your name there will be a welcome message before you start the game.
 
 ![start](start.png)
 
 # a 'start' feature 
 
-Type "start" to begin the game and the array will be shown.
+        Type "start" to begin the game and the array will be shown.
 
 # a 'new game' and 'end game' feature.
 
-Type "new game" to start a new game or type "end game" to exit the game.
+        Type "new game" to start a new game or type "end game" to exit the game.
 
 
 # Note: Ensure that your features above allow you to demonstrate your understanding of the following language elements and concepts:
@@ -46,7 +46,7 @@ Type "new game" to start a new game or type "end game" to exit the game.
 - error handling
 
 
-I would like the hangman game to be a very interactive game, I would like for it to have a start, exit and new game feature. The words used will probably be programming terminology that is frequently used to make it more interactive for the educators/students.
+        I would like the hangman game to be a very interactive game, I would like for it to have a start, exit and new game feature. The words used will probably be programming terminology that is frequently used to make it more interactive for the educators/students.
 
 # Develop an outline of the user interaction and experience for the application.
 Your outline must include:
@@ -54,23 +54,22 @@ Your outline must include:
 - how the user will interact with / use each feature
 - how errors will be handled by the application and displayed to the user
 
-With each feature, there are specific instructions that will be written on screen for the game, it tells the user how to interact with each feature and how to go back tpo the main screen once completed.
+        With each feature, there are specific instructions that will be written on screen for the game, it tells the user how to interact with each feature and how to go back to the main screen once completed. If the user 
 
 
 # Develop a diagram which describes the control flow of your application. Your diagram must:
 - show the workflow/logic and/or integration of the features in your application for each feature.
 - utilise a recognised format or set of conventions for a control flow diagram, such as UML.
 
-![diagram](diagram.png) 
+    ![diagram](diagram.png) 
 
 # Develop an implementation plan which:
 - outlines how each feature will be implemented and a checklist of tasks for each feature
 - prioritise the implementation of different features, or checklist items within a feature
 - provide a deadline, duration or other time indicator for each feature or checklist/checklist-item
+- Utilise a suitable project management platform to track this implementation plan
 
-Utilise a suitable project management platform to track this implementation plan
-
-> Your checklists for each feature should have at least 5 items.
+    > Your checklists for each feature should have at least 5 items.
 ![implementation plan](plan.png) 
 
  # Design help documentation which includes a set of instructions which accurately describe how to use and install the application.
@@ -81,6 +80,6 @@ You must include:
 - any system/hardware requirements
 
 
-- Hello and Welcome to Hangman!
+         Hello and Welcome to Hangman!
 
-To start this game you must first type in  "ruby 'play.rb' " into your terminal, you then have a set of instructions that pop up. Enter your username and type start and press enter. The game will randomly generate a word, you guess each letter and the game will promt you if you are either correct or incorrect. Once the word is guessed it will go to the main menu which will give you the option to either quit or start a new game.
+        To start this game you must first type in  "ruby 'play.rb' " into your terminal, you then have a set of instructions that pop up. Enter your username and type start and press enter. The game will randomly generate a word, you guess each letter and the game will promt you if you are either correct or incorrect. Once the word is guessed it will go to the main menu which will give you the option to either quit or start a new game.
