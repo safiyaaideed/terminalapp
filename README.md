@@ -37,7 +37,7 @@ Type "start" to begin the game and the array will be shown.
 
 # a 'new game' and 'end game' feature.
 
-
+Type "new game" to start a new game or type "end game" to exit the game.
 
 
 # Note: Ensure that your features above allow you to demonstrate your understanding of the following language elements and concepts:
