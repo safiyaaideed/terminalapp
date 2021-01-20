@@ -1,10 +1,8 @@
 # Trello board 
-
-https://trello.com/b/ofSAQIUH/tasks
+- https://trello.com/b/ofSAQIUH/tasks
 
 # Provide a link to your source control repository	
-
-https://github.com/safiyaaideed/terminalapp.git
+- https://github.com/safiyaaideed/terminalapp.git
 
                                                                                                                                          
 
