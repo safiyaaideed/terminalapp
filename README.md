@@ -35,10 +35,13 @@ The username input was used as an interacative feature to personalise the game f
 
         Type "start" to begin the game and the array will be shown.
 
+![start2](start2.png)
+
 # a 'new game' and 'end game' feature.
 
         Type "new game" to start a new game or type "end game" to exit the game.
 
+![newgame](new game.png)
 
 # Note: Ensure that your features above allow you to demonstrate your understanding of the following language elements and concepts:
 - use of variables and the concept of variable scope.
