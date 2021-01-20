@@ -83,4 +83,4 @@ You must include:
 
 - Hello and Welcome to Hangman!
 
-To start this game you must first type in 'play.rb' into your terminal, you then have a set of instructions that pop up. Enter your username and type start and press enter. The game will randomly generate a word, you guess each letter and the game will promt you if you are either correct or incorrect. Once the word is guessed it will go to the main menu which will give you the option to either quit or start a new game.
+To start this game you must first type in  "ruby 'play.rb' " into your terminal, you then have a set of instructions that pop up. Enter your username and type start and press enter. The game will randomly generate a word, you guess each letter and the game will promt you if you are either correct or incorrect. Once the word is guessed it will go to the main menu which will give you the option to either quit or start a new game.
