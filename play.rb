@@ -155,8 +155,7 @@ chances = 5
   puts "Type \"new\" for a new game, type \"quit\" to exit"
   print "> "
   rematch = gets.chomp.downcase.strip
-  else
-  puts "Please type either \"new\" OR \"quit\""
+
   end
 
 end 
