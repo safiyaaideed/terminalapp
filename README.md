@@ -33,7 +33,7 @@ As soon as you enter the game, you will be told to write your name or username. 
 
 # a 'start' feature 
 
-Type start to begin the game and the array will b
+Type "start" to begin the game and the array will be shown.
 
 # a 'new game' and 'end game' feature.
 
