@@ -1,21 +1,33 @@
-dictionary = File.open('words.txt')
-dictionary_array = dictionary.readlines
-dictionary_array.shuffle!
+def get_dictionary(file)
+  dictionary = File.open(file)
+  dictionary_array = dictionary.readlines
+  dictionary_array.shuffle!
+  return dictionary_array
+end
 
-# Intro text, wait for user to type 'start'
-puts "\n<<< Welcome to my hangman app >>>\n\n"
-print "Please enter your name: "
-name = gets
-print "Welcome #{name.strip}!!! (Hint: Each word is programming related)"
-puts "Type \"start\" to begin a new game\n"
+def start_game 
+  # Intro text, wait for user to type 'start'
+  puts "\n<<< Welcome to my hangman app >>>\n\n"
+  print "Please enter your name: "
+  name = gets
+  print "Welcome #{name.strip}!!! (Hint: Each word is programming related)"
+  puts "Type \"start\" to begin a new game\n"
+ 
+  print "> "
+  user_word = gets.chomp.downcase.strip
+  until user_word == "start"
+    print "> "
+    user_word = gets.chomp.downcase.strip
+  end
+end
+#Main program starts here
+#Get the words for the game
+dictionary_array = get_dictionary("words.txt")
+#Start The Game
+start_game 
+ #Initialized turn and rematch
 turn = 0
 rematch = nil
-print "> "
-user_word = gets.chomp.downcase.strip
-until user_word == "start"
-print "> "
-user_word = gets.chomp.downcase.strip
-end
 
 puts "Getting your word ready..\n\n"
 
