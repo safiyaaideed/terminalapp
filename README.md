@@ -58,3 +58,15 @@ Utilise a suitable project management platform to track this implementation plan
 
 > Your checklists for each feature should have at least 5 items.
 ![implementation plan](plan.png) 
+
+ R10	Design help documentation which includes a set of instructions which accurately describe how to use and install the application.
+
+You must include:
+- steps to install the application
+- any dependencies required by the application to operate
+- any system/hardware requirements
+
+
+Hello and Welcome to Hangman!
+
+To start this game you must first type in 'play.rb' into your terminal, you then have a set of instructions that pop up. Enter your username and type start and press enter. The game will randomly generate a word, you guess each letter and the game will promt you if you are either correct or incorrect. Once the word is guessed it will go to the main menu which will give you the option to either quit or start a new game.
